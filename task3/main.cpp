@@ -1,5 +1,4 @@
 //#include"logic.h"
-//
 //int main() {
 //	int n,m;
 //

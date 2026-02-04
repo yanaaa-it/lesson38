@@ -1,5 +1,4 @@
 //#include"logic.h"
-//
 //string calculate_num(int n, int m) {
 //	if (m < n || m < 0 || n < 0) {
 //		return "error";
